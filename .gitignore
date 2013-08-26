@@ -15,5 +15,5 @@
 /tmp
 /doc
 
-#Ignore Paperclip uploaded files
+# Ignore Paperclip uploaded files
 /public/system
