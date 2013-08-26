@@ -14,3 +14,6 @@
 /log/*.log
 /tmp
 /doc
+
+#Ignore Paperclip uploaded files
+/public/system
