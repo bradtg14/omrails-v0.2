@@ -17,3 +17,6 @@
 
 # Ignore Paperclip uploaded files
 /public/system
+
+# Ignore Sample Images
+/SampleImages
